@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Pemantauan Banjir IoT",
+  "description": "Sistem pemantauan tiang sensor aras air banjir merangkumi firmware multi-MCU (ESP32-C3/S3/C6/P4, ESP8266), kalibrasi sensor IC555 & bateri, REST API & MQTT, serta aplikasi mudah alih Flutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
